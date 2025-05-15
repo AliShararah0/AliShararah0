@@ -1,4 +1,4 @@
-# ** Ali Ahmad Shararah**
+# Ali Ahmad Shararah
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ali-shararah-b2b12a19a)
 --
