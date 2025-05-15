@@ -1,3 +1,8 @@
+Ali Ahmad Shararah
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ali-shararah-b2b12a19a)
+
+---
+
 ## 🚀 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
